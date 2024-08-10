@@ -1,4 +1,4 @@
-# Café Website
+# Cafeeco : Just Another sweet
 
 Welcome to our café's official website! This site is designed to provide an exceptional user experience across all devices, using the power of Bootstrap to ensure responsiveness and adaptability.
 
